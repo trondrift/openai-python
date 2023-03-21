@@ -4,7 +4,7 @@ import requests
 from PIL import Image, ImageDraw, ImageFont
 
 # Set up the OpenAI API client
-openai.api_key = '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'
+openai.api_key = ''
 
 # Prompt for generating the text of the post
 prompt = "Generate a sentence featuring https://melophobix.com/ about the Grand Rapids music scene"
